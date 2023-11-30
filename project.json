@@ -1,0 +1,103 @@
+{
+  "name": "TestAutomationProject_Rutika",
+  "projectId": "fd196fe2-9a45-41c0-82d2-ea7bfc9607cb",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[23.10.2]",
+    "UiPath.Testing.Activities": "[23.10.0]",
+    "UiPath.UIAutomation.Activities": "[23.10.3]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.10.0.0",
+  "projectVersion": "1.0.154346035",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "50c5e5ea-edf6-412d-b811-66296a0ecf89",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Create_Item_Testcase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3e4809a5-0663-49a6-995e-b36931d85956",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Create_Doc_Testcase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "433b1524-6460-404b-89e9-86e7caf15f5b",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Checkin_Checkout_Testcase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "35c0d2de-0ad2-4afe-89a5-40c3c9867ea2",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Create_Doc_test.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "54b7e032-adad-4e9b-b48d-bda951fa2864",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Add_Description_Testcase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "9a58f68b-1e2b-433e-bbe6-d3a651dfd802",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "New_Window_Testcase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "eff9f77f-2be4-472f-8667-af3c72ffd4f2",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "CopyPaste_Testcase.xaml"
+      }
+    ],
+    "modernBehavior": true,
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

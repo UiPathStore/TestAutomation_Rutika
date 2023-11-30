@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/rutikadhamane/DefaultTenant/testmanager_/",
+  "defaultProject": {
+    "id": "ab7e57f8-bb29-0000-840c-0b461d38444b",
+    "name": "TestAutomationProject",
+    "key": "TESTAUTO"
+  }
+}
